@@ -1,0 +1,13 @@
+rep_id,rep_name,region,monthly_quota,commission_rate
+SR001,Aarav Mehta,North,390000,0.035
+SR002,Diya Sharma,North,430000,0.035
+SR003,Kabir Singh,North,480000,0.045
+SR004,Riya Iyer,South,375000,0.035
+SR005,Vivaan Nair,South,510000,0.045
+SR006,Tara Menon,South,445000,0.035
+SR007,Anaya Gupta,West,585000,0.045
+SR008,Reyansh Shah,West,520000,0.035
+SR009,Ishita Bose,East,410000,0.035
+SR010,Advik Roy,East,460000,0.045
+SR011,Meera Joshi,Central,390000,0.035
+SR012,Vihaan Patel,Central,510000,0.045
